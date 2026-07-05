@@ -96,9 +96,9 @@ ORDER BY i.fecha_registro DESC;
 ## 📂 Estructura del Repositorio
 
 ```
-├── 📁 [01-Fundamentos-BaseDatos](./01-Fundamentos-BaseDatos/)        # Apuntes teóricos
-├── 📁 [02-ModeladoBaseDatos](./02-ModeladoBaseDatos/)          # Diagramas y casos de estudio
-├── 📁 [03-construccion-basededatos](./03-construccion-basededatos/)  # Ejercicios de mapeo
+├── 📁 01-Fundamentos-BaseDatos/        # Apuntes teóricos
+├── 📁 02-ModeladoBaseDatos/          # Diagramas y casos de estudio
+├── 📁 03-construccion-basededatos/  # Ejercicios de mapeo
 ├── 📁 04_sql_ldd/            # Scripts de creación de esquemas (.sql)
 ├── 📁 05_sql_lmd/            # Scripts de consultas y manipulación (.sql)
 └── README.md                 # Presentación del curso
